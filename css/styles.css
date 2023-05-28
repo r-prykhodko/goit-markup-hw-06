@@ -798,6 +798,30 @@ body {
     border-color: var(--clr-iris);
  }
 
+ .container-checkbox {
+    margin-bottom: 24px;
+
+ }
+
+ .label-checkbox {
+    font-size: 12px;
+    line-height: 1.17;
+    letter-spacing: 0.04em;
+    color: var(--clr-ligt-slate);
+
+ }
+
+ .label-span-checkbox {
+    width: 16px;
+    height: 16px;
+    border: 1px solid rgba(46, 47, 66, 0.4);
+    border-radius: 2px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    fill: transparent; 
+ }
+
 /* ========== MODAL*END ========== */
 
 
