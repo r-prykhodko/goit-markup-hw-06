@@ -829,6 +829,28 @@ body {
     border-color: var(--clr-ocean);
 
  }
+
+ .privacy-policy-link {
+    color: var(--clr-iris);
+ }
+
+ .btn-order-s {
+    display: block;
+    min-width: 169px;
+    height: 56px;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: var(--clr-white);
+    cursor: pointer;
+    background-color: var(--clr-iris);
+    border: none;
+    border-radius: 4px;
+    
+
+ }
 /* ========== MODAL*END ========== */
 
 
