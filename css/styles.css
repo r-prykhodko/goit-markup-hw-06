@@ -822,6 +822,13 @@ body {
     fill: transparent; 
  }
 
+ .label-span-checkbox:checked {
+    background-color: var(--clr-ocean);
+    border: none;
+    fill: var(--clr-white);
+    border-color: var(--clr-ocean);
+    
+ }
 /* ========== MODAL*END ========== */
 
 
